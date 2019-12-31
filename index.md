@@ -6,7 +6,7 @@ Bilkent University Senior Project 2019/2020. Reports will be made available here
 
 ## Analysis Report: [pdf](/reports/Analysis.pdf)
 
-## High-Level Design Report: <>
+## High-Level Design Report: [pdf](/reports/High Level Design.pdf)
 
 ## Low-Level Design Report: <>
 
